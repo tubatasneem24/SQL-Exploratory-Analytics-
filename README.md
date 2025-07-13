@@ -46,9 +46,10 @@ The project queries data from multiple dimensions and fact tables stored in a sc
 ---
 
 ## ☕ Stay Connected
-Let's stay in touch! Feel free to connect with me on Linkdin:
+Let's stay in touch! Feel free to connect with me on the followings:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tubatasneemofficial/)
+[![LinkeddIn](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tubatasneemofficial/)
+[![Tableau](https://img.shields.io/badge/Tableau-0077B5?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/lilee.jas/vizzes)
 
 ## 📄 License
 This project is licensed under the MIT License.
