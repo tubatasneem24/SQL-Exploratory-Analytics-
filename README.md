@@ -4,7 +4,7 @@ Hi there! I'm a data enthusiast with a strong passion for discovering insights t
 
 ---
 
-# 🧠 SQL Exploratory Data Analysis Project
+#  SQL Exploratory Data Analysis Project
 
 ## 🎯 Objective
 
