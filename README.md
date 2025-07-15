@@ -1,6 +1,7 @@
 # 👋 Welcome To My GitHub Profile
 
-Hi there! I'm a data enthusiast with a strong passion for discovering insights through structured data exploration, analysis, and storytelling. This repository showcases one of my hands-on SQL projects aimed at performing exploratory data analysis for a fictional data warehouse.
+Hi, I’m Tuba Tasneem, a student specializing in translating complex datasets into clear, business-ready narratives—helping teams move from reactive reports to confident, data-backed decisions.
+
 
 ---
 
